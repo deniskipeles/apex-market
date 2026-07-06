@@ -1,0 +1,6 @@
+{
+  "name": "ApexMarket - E-Commerce with Site Lens Search",
+  "description": "An e-commerce platform for general goods featuring Gemini-powered Site Lens image search, real-time order tracking, an intuitive secure checkout, personalized recommendations, and an admin analytics dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
